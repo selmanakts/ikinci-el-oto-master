@@ -157,7 +157,7 @@ const AutoDetail = (props) => {
                 </div>
               </div>
               <div>
-                <Card className="AutoDetail__Description">fasdfs</Card>
+                <Card className="AutoDetail__Description">{thisAuto.description}</Card>
               </div>
             </div>
           </div>

@@ -102,4 +102,11 @@
   height: 100px;
   width: 830px;
 }
-
+.AutoDetail__link{
+  color: white;
+  text-decoration: none;
+}
+.AutoDetail__link:hover{
+  color: white;
+  text-decoration: none;
+}
