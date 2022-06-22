@@ -1,0 +1,50 @@
+.AutoList__page {
+  width: 1243px;
+  margin: auto;
+  display: flex;
+}
+
+.FilterSection {
+  width: 176px;
+  margin-right: 20px;
+}
+
+.CategorySection {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  /* background-color: red; */
+  max-height: 500px;
+}
+
+.AutoList__Card{
+  width: 1032px;
+  /* background-color: red; */
+  margin-top: 10px;
+  margin-left: 1px;
+  margin-bottom: 21px;
+}
+
+.AutoList__CardBody{
+  display: flex;
+  height: 35px;
+  /* background-color: blue; */
+}
+
+.AutoList__CardBody div{
+  /* background-color: blue; */
+  /* padding-top: 45px; */
+  text-align: center;
+  /* border: 1px solid ;
+  border-color: rgb(223, 223, 223); */
+  width: 200px;
+  height: 125px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: -10px ;
+}
+
+
+.AutoCard__Link{
+  text-decoration: none;
+  color: rgb(60, 60, 60);
+}

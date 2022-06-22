@@ -1,0 +1,128 @@
+.AutoAdd__page{
+    width: 1200px;
+    height: 1330px;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.AutoAdd__ImageAdd{
+    width: 1152px;
+    height: 157px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 5px;
+}
+
+.AutoAdd__ImgFormGroup{
+    display: flex;
+    height: 100px;
+}
+
+.AutoAdd__FormGroup{
+    margin: auto;
+}
+
+
+/*-------------------------*/
+
+.AutoAdd__CarModel{
+    width: 1152px;
+    height: 272px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+.AutoAdd__CarModelDiv1{
+    width: 1120px;
+    display: flex;
+    margin: auto;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+    padding-top: 10px;
+}
+
+.AutoAdd__CarModelDiv2{
+    width: 1120px;
+    display: flex;
+    margin: auto;
+    padding-left: 150px;
+    border: 5px solid;
+    border-radius: 5px;
+    padding-top: 10px;
+    border-color: white;
+    background-color: white;
+    margin-top: 15px;
+}
+
+/*------------*/
+
+.AutoAdd__CarInfo{
+    width: 1152px;
+    height: 620px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+.AutoAdd__CardInfoDiv1{
+    width: 1120px;
+    display: flex;
+    margin: auto;
+    padding-left: 115px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+    padding-top: 10px;
+}
+
+.AutoAdd__CardInfoDiv2{
+    width: 1120px;
+    margin: auto;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+    padding-top: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+/*--------------*/
+.AutoAdd__CarTramerAndWho{
+    width: 1152px;
+    height: 160px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(234, 234, 234);
+}
+
+.AutoAdd__CarTramerAndWhoDiv1{
+    width: 1120px;
+    display: flex;
+    margin: auto;
+    padding-left: 115px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+    padding-top: 10px;
+    padding: 10px;
+    margin-top: 17px;
+}
+
+/*-----------*/
+.AutoAdd__Button{
+    margin: auto;
+    width: 400px;
+}

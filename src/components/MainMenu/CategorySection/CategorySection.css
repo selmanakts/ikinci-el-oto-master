@@ -1,0 +1,15 @@
+.CategorySection__page{
+    width: 186px;
+    height: 297px;
+}
+
+.CategorySection__title{
+    font-size: 18px;
+    margin: auto;
+}
+
+.CategorySection__ListGroup{
+    width: 165px;
+    height: 50px;
+    margin-left: 10px;
+}
